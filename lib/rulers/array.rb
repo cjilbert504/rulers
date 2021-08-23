@@ -1,5 +1,5 @@
 class Array
-  def sum(start = 0)
+  def summm(start = 0)
     inject(start, &:+)
   end
 end
